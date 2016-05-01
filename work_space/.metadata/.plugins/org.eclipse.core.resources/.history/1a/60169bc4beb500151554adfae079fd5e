@@ -1,0 +1,26 @@
+
+public  class class1 
+{
+
+	public static void main(String[] args) 
+	{
+
+		
+		Class classy=Class.forName("class1");
+		Class1 cls= classy.newInstance();
+		new Example("thread1").start();
+		new Example("thread2").start();
+
+	}
+	
+	class Example extends Thread 
+	{
+		
+		public Example(String str)
+		{
+			super(str);
+			
+		}
+		
+	}
+}

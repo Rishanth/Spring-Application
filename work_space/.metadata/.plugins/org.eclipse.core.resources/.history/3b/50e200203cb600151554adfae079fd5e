@@ -1,0 +1,30 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
+
+public  class class1 
+{
+
+	static List ar=new ArrayList(1);
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException 
+	{
+
+	
+		
+          Thread t1= new Thread()
+          {
+        	  public void run()
+        	  {
+        		  while(true)
+        		  {
+        			  
+        		  }
+        	  }
+          };
+
+		
+		
+		
+	}
+}

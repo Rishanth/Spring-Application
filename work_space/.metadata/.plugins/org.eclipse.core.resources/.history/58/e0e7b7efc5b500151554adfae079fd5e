@@ -1,0 +1,23 @@
+
+ public class TestExpressionParser extends class1
+ {
+
+	@Override
+	void read() {
+		// TODO Auto-ge90nerated method stub
+	
+		System.out.println("God is great!!");
+	}
+	 
+	 
+
+
+    public static void main(String[] args)
+    {
+        class1 ob=new TestExpressionParser();
+        ob.read();
+    	
+     }
+	
+	 
+ }

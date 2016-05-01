@@ -1,0 +1,38 @@
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.text.html.HTMLDocument.Iterator;
+
+
+public  class class1 
+{
+
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException 
+	{
+
+	
+		   List<Integer> arrlist = new ArrayList<Integer>(3);
+		   arrlist.add(1);
+		   arrlist.add(2);
+
+		   arrlist.add(3);
+
+		   arrlist.add(4);
+
+		   arrlist.add(5);
+		   arrlist.add(6);
+		   
+		   java.util.Iterator<Integer> it = arrlist.iterator();
+		   while(it.hasNext())
+		   {
+			   System.out.println(it.next());
+		   }
+
+
+		   
+
+		
+		
+		
+	}
+}

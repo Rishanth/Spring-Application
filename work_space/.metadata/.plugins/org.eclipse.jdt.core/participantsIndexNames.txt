@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+C:\Users\rishii\Desktop\work_space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3968223531.index
+\HelloWorldJSP\src
+C:\Users\rishii\Desktop\work_space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\426015264.index
+\JSP_practice\src
+C:\Users\rishii\Desktop\work_space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\608592631.index
+\servlet_example\src

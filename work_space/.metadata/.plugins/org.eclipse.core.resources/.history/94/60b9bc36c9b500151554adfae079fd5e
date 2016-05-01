@@ -1,0 +1,32 @@
+import java.util.ArrayList;
+import java.util.List;
+
+
+public  class class1 
+{
+
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException 
+	{
+
+	
+		   List<Integer> arrlist = new ArrayList<Integer>(5);
+		   arrlist.add(1);
+		   arrlist.add(2);
+
+		   arrlist.add(3);
+
+		   arrlist.add(4);
+
+		   arrlist.add(5);
+		   arrlist.add(6);
+		   
+		   Iterator it = arrlist.iterator();
+
+
+		   
+
+		
+		
+		
+	}
+}

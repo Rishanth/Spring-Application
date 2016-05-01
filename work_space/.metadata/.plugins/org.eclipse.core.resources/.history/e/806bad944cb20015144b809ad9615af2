@@ -1,0 +1,12 @@
+ abstract class1
+{
+	
+	 public void read();
+	 public void write();
+	
+}
+ 
+ public class TestExpressionParser extends class1
+ {
+	 
+ }

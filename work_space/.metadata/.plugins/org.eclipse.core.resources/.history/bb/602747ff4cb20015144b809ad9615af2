@@ -1,0 +1,6 @@
+
+public  abstract class class1 {
+
+	abstract void read();
+	abstract void write();
+}

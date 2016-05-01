@@ -1,0 +1,8 @@
+
+public  class class1 {
+
+	abstract void read();
+	void write() {
+	System.out.println("hi");
+	}
+}

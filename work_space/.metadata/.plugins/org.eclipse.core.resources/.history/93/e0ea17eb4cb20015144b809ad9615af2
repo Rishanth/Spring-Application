@@ -1,0 +1,16 @@
+
+ public class TestExpressionParser extends class1
+ {
+	 
+	 public void read()
+	 {
+		 
+	 }
+
+	@Override
+	void write() {
+		// TODO Auto-generated method stub
+		
+	}
+	 
+ }

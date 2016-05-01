@@ -1,0 +1,13 @@
+
+public  class class1 {
+
+	public static void main(String[] args) throws ClassNotFoundException, InstantiationException, IllegalAccessException
+	{
+		Class cls=Class.forName("class1");
+		class1 cls1=(class1)cls.newInstance();
+		
+		
+		
+			
+	}
+}

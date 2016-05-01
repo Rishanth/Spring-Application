@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.text.html.HTMLDocument.Iterator;
+
+
+public  class class1 
+{
+
+	public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException 
+	{
+
+	
+	
+
+		
+		
+		
+	}
+}
